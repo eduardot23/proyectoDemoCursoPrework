@@ -2,4 +2,20 @@ body{
     color: darkblue;
     text-align: center;
     font-family: "Arial";
+    font-size: 18px;
+    margin: 2px;
+    padding: 0;
+
+}
+
+#container {
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 38px;
 }
